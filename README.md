@@ -1,9 +1,7 @@
 # geometry-shader-demo
 
-[Archived]
-
-Simple geometry shader demo. 
+[Old code] [Archived]
 
 ---
 
-Written in August 2020
+Simple geometry shader demo.
